@@ -20,7 +20,7 @@ A Fullstack Tours & Travels Web App Using MERN Stack 💫
 
 ## Live Preview
 
-[TravelWorld 🌍](https://travelworldtours.netlify.app/)
+[TravelWorld 🌍](https://touristtravellers.netlify.app/)
 
 ![image](https://github.com/shuence/FitClub/assets/65482186/4c863ee9-2e02-4e98-95c0-e122cf91320e)
 
@@ -29,8 +29,8 @@ A Fullstack Tours & Travels Web App Using MERN Stack 💫
 To Setup this project run
 
 ```bash
-git clone <https://github.com/shuence/Backend-for-TravelWorld>
-cd Backend-for-TravelWorld
+git clone <https://github.com/Chandan078/Backend-for-Travel-world>
+cd Backend-for-Travel-world
 yarn
 yarn dev
 ```
